@@ -1,0 +1,26 @@
+.title{
+	font-size: 35px;
+	-webkit-text-shadow:5px 5px 5px #FF758C;
+	-moz-text-shadow:5px 5px 5px #FF758C;
+	text-shadow: 5px 5px 5px #FF758C;
+	margin-top: 20px ;
+	margin-bottom: 25px;
+}
+
+.title1{
+	font-size: 25px;
+	-webkit-text-shadow:5px 5px 5px #FF758C;
+	-moz-text-shadow:5px 5px 5px #FF758C;
+	text-shadow: 5px 5px 5px #FF758C;
+	margin-top: 20px ;
+	margin-bottom: 30px;
+}
+
+.title2{
+	font-size: 30px;
+	-webkit-text-shadow:5px 5px 5px #FF758C;
+	-moz-text-shadow:5px 5px 5px #FF758C;
+	text-shadow: 5px 5px 5px #FF758C;
+	margin-top: 20px ;
+	margin-bottom: 30px;
+}
